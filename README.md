@@ -19,7 +19,8 @@ O objetivo deste projeto é demonstrar técnicas básicas de leitura, processame
 - `Introdução Analise de Dados.ipynb`: Notebook Jupyter contendo a análise passo a passo dos dados.
 - `Vendas.xlsx`: Arquivo Excel com os dados de vendas utilizados na análise.
 - `analise-lojas.py`: Script Python com as funções de análise de faturamento por loja e por produto.
-- `code.png`: Imagem ilustrativa relacionada ao código ou aos resultados da análise.
+- `code.png`: Imagem ilustrativa relacionada ao código.
+- `excel.png`: Imagem ilustrativa relacionada as tabelas no excel, base de dados.
 
 ## Tecnologias Utilizadas
 
