@@ -2,6 +2,9 @@
 
 Este repositório contém um projeto introdutório de análise de dados utilizando Python e a biblioteca Pandas, com foco na manipulação e análise de dados provenientes de arquivos Excel.
 
+<img src=code.png width= 600 img/>
+<img src=excel.png width= 500 img/>
+
 ## Descrição do Projeto
 
 O objetivo deste projeto é demonstrar técnicas básicas de leitura, processamento e análise de dados utilizando o Pandas. As principais etapas incluem:
